@@ -1,0 +1,69 @@
+﻿CHAYMAE BENAATIA
+ Etudiante ingénieure data science et intelligence artificille
+
++(212)69251743
+benaatia.chaymae@gmail.com
+
+rabat,Maroc
+
+A PROPOS DE MOI
+Passionnée  par  l ' IA  et  convaincue  de  son impact  révolut ionnaire  sur  notre  société ,
+
+je  recherche  un stage  de  6  mois  6  mois  à  part ir  de  janvier  2024  pour  mettre  en
+œuvre  ma curios i té  et  mon expert ise  en  créat ion  de  modèles  d 'apprentissage
+
+automatique  à  vos  côtés ,  dans  un domaine  en  perpétuel le  évolut ion .
+
+FORMATIONS PROJETS
+2021 /2024 Ecole nationale des arts et      Machine Learning :
+des métiers Conception d'un chatbot intelligent en utilisant le framework
+ 2019 / 2021 Classes préparatoires -    web Flask et des techniques avancées de traitement du langage
+technologie et sciences                 naturel (NLP). Le chatbot répond de manière contextuelle aux
+industrielles) requêtes des utilisateurs, optimisant ainsi l'expérience
+ 2019 Baccalauréat technique utilisateur.
+
+                               Boite de messagerie :
+COMPÉTENCES Développement d'une application de gestion de messages en
+
+utilisant la technologie JEE, l'API JavaMail et l'interface graphique
+Python(numpy, scikit-learn, Flask, Django)/ Swing. Cette application offre une gestion efficace des messages,
+R / JAVA  / C /JEE améliorant la communication et la collaboration.
+
+     Développement web :
+ Deep Learning/ MachineLearning/ Data Mise en œuvre d'un site dédié à la détection d'épilepsie,
+mining/ Web scraping/  NLP/ abordant une approche technique complète. Utilisation de
+Apprentissage Automatique/ TensorFlow HTML, CSS et jQuery en front-end pour une interface utilisateur
+
+intuitive, et PHP en back-end pour le traitement des données. Le
+ SQLserver/ ORACLE db/ Mongodb/ site prodigue des renseignements clés sur la détection précoce
+MYSQL de l'épilepsie.
+
+     Traitement d'image :
+ HTML/CSS/jquery/PHP/javascript Application du modèle Mean Shift pour la détection d'objets sur
+
+images et vidéos. Cette technique avancée de traitement d'image
+ Python/Power Bi permet une analyse précise des données visuelles, ouvrant la
+
+voie à des applications en surveillance et en reconnaissance
+Arduino Uno/Raspberry Pi d'objets.
+Mersie/UML     Système d'irrigation intelligent :
+
+Conception d'un système d'irrigation intelligent utilisant
+Office 365 Arduino, intégrant des capteurs d'humidité et de température.
+
+Ce système surveille en temps réel les conditions
+LANGUE environnementales et ajuste automatiquement l'irrigation,
+
+favorisant une croissance optimale des plantes tout en
+ Français : Lu, écrit ,parlé économisant l'eau.
+Anglais : Lu, écrit ,parlé STAGE
+Arabe : Lu, écrit ,parlé
+
+ Stage en Sciences des Données
+CENTRE D’INTERET  juin-aout 2023 -Banque AL MAGHREB
+
+Cuisine Développement web avancé avec Flask et intégration de
+machine learning.
+
+Lecture Création d'un chatbot web utilisant Python et techniques
+Cinéma et théâtre de machine learning.

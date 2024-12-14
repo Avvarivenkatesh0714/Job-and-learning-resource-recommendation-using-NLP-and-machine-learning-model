@@ -1,0 +1,145 @@
+﻿OUHSSAIN Abdelkader 
+
+A la recherche d’un stage PFE 
+Elève ingénieur en mécatronique & productique, passionné par le domaine d’Automobile et de 
+
+l’aéronautique, désireux de mettre en application mon apprentissage, ma capacité d’analyse, mes 
+compétences théoriques et techniques. 
+
+ 
+
+ Formations 
+ 
+
+  2021-2024 : Diplôme d’ingénieur d’état en Filière Productique & Mécatronique   
+
+ Faculté de science et technique université sultan Moulay Slimane Beni Mellal. 
+• ouhssain.stage@gmail.com     
+
+• +212   762-366045   2019-2021 : Diplôme d’études universitaires des sciences et technologies :  
+
+• Abdelkader ouhssain     Faculté des science et technique université sultan Moulay Slimane. 
+              
+
+• Mob ilité Nationale    
+  2018-2019 
+
+• 22 Ans, Célibataire.  Diplôme de Baccalauréat science mathématique :        
+
+:     Nouveau lycée, tata. 
+• Abd elkader ouhssain 
+
+                     Expériences  
+    
+
+      
+Expérience associative          Capgemini engineering | août 2023 - 7 semaines                                                                          
+
+   
+Mechatronic club (FstBm)                     
+
+    Projet de Fin d’Année sous le thème : « Réalisation d’accès par la reconnaissance faciale ». 
+
+2022/2023 Chef d’équipe matériel :  
+▪ Choisissant et suivant la méthode agile comme méthode de développement de projet. 
+
+Gestion et diagnostique des matériels  
+▪ Analyse et modélisation du projet en utilisant le langage UML. 
+                    
+
+2021/2022 Membre d’équipe matériel : ▪ Développement d'un système de reconnaissance faciale avec Python. 
+
+Traitement des équipements technologies 
+        One-Branche eau | août 2022 – 4 semaines                                                                           
+
+du club. 
+    Stage technique sous le thème : « Réalisation d’accès par la reconnaissance faciale ». 
+
+     Soft skills 
+▪ Explorer les opérations et les pratiques professionnelles de l'entreprise. 
+
+ ▪ Travail en équipe. ▪ Etude des systèmes de pompage. 
+
+▪ Autonomie et prise d’initiative. Projets  
+ Stage technique : INTELLCAP | juil. 2022 - janv. 2023 · 7 mois.  
+
+▪ Adaptabilité et gestion de stress. 
+ 2022/2023 : chariot élévateur autonome : 
+▪ Polyvalence et engagement. Conception 3D & design de projet : Lunettes de réalité augmentée à l'aide de logiciel SolidWorks. 
+▪ Rigueur. ▪ Conception et simulation RDM à l'aide du SOLIDWORKS en préparation pour l'impression 3D. 
+
+     Stage▪  d ’inPirtoiagtrioamn m: oantieo-nB rAarndcuhien oe aeut  |d aéovûetl o2p0p2e2m ·e 1n tm do'uin.  e interface de visualisation à l'aide de Python. 
+     Logiciels ▪ Contrôle à distance et diffusion en direct d'une caméra. 
+
+  Découvrir les plus proches possibles des réalités du monde de travail dans cette entreprise. 
+
+ 2022/2023 : yeux animatroniques : 
+▪ MATLAB / Simulink . 
+
+▪ Simens (TIA Portal,PLCIM) ▪ Conception et réalisation d’un robot avec des yeux imprimes 3D. 
+ 
+
+▪  LabView ▪ Développement d’un système imitent les mouvements oculaires humains. 
+
+▪ SolidWorks / Catia V5  
+2022/2023 : maquette pour la variation de débit de la pompe : 
+
+▪ ANSYSWORKBEANCH 
+ 
+
+▪ FeatureCam / SowanSoft CNC ▪ Conception et simulation d’une pompe pour l’impression 3D. 
+
+▪ ▪ Création d’interface LABVIEW pour l’asservissement de débit a base du contrôleur PID. 
+Autocad 
+
+▪ Fritzing / ISIS 2022/2023 : Robot GYROPODE : 
+▪ 20-sim 
+
+▪ Conception d’un robot auto-équilibré à l'aide du SOLIDWORKS et l'impression 3D. 
+
+    Langues ▪ Modélisation et simulation à l’aide de MATLAB SIMULINK. 
+▪ Programmation Arduino et Asservissement à base du contrôleur PID. 
+
+F rançais : Compétence professionnelle.  
+2021/2022 : Robot télécommandé : 
+
+Anglais : Compétence professionnelle. 
+
+ ▪ Conception et modélisation 3D d’un robot à base de roue MECANUM. 
+Arabe : Maternelle. 
+
+2021/2022 : Réalisation de la première phase pour la fabrication d’une voiture solaire : 
+
+Amazigh : Maternelle 
+▪ Analyse fonctionnelle, cahier de charge fonctionnelle et la conception à l’aide de SOLIDWORKS. 
+
+     Certifications Compétences  
+  
+
+   Automobile : ADAS, ESP, ABS, CAN, Moteur thermique, moteur électrique, système automobile. 
+▪ Machine learning Introduction for 
+
+everyone.  P rogrammation : Python, langage C, Java, Assembleur, Arduino, Pic16F84, Micro 6800, G-code, Excel 
+
+▪  MATLAB/SIMULINK Masterclass - VBA. 
+
+From a Beginner to an Expert.  
+Mécanique : CAO/DAO, Imprimante 3D, Etude RDM, Méthodes des éléments finis, Diagnostic des 
+
+▪ Advanced Driver Assistance Systems 
+ m   achines tournantes et automobile, fabrication manuelle et avec la machine à commande numérique, 
+
+(ADAS) 
+▪ Master Microsoft Excel Macros and  Managérial : La maintenance industrielle, amélioration continue, Gestion de production. 
+
+Excel VBA 
+▪ Machine Learning with python.  Automatisme :  Conception, fabrication, maintenance et optimisation des systèmes automatises, API, 
+
+GRAFCET, LADDER.  
+▪ Apprenez les bases du langage 
+
+ 
+python. Automatique :  Etude et Régulation des systèmes asservis (P, PD, PI, PID), Les technologies de transmission 
+
+▪ Business English : Networking. de puissance, les transformateurs industriels, les moteur industriel. 
+▪ Apprenez à programmer en C.

@@ -1,0 +1,77 @@
+﻿Avvari Venkatesh
+ +91 7204089166 # avvarivenkatesh0714@gmail.com ï Linkedin § Github
+
+Education
+Adichunchanagiri Institute of Technology Dec. 2021 – May. 2025
+Bachelor of Engineering- Computer Science and Engineering; CGPA: 8.89 (Until 5th Sem) Karnataka, India
+
+Sri BGS PU College June. 2019 – Jun. 2021
+PUC in Science(PCMC) ; Percentage: 92.16 Hassan, Karnataka, India
+
+Mount Ford Assn High School April. 2018 – April. 2019
+S.S.L.C ; Percentage: 89.12 Belur, Karnataka, India
+
+Technical Skills
+Languages: Java, Python
+Problem Solving: Strong problem determination and resolution skills
+Design and Development: Best practices in software design, development, and testing
+Cloud Services: Amazon Web Services [Intermediate]
+CS Fundamentals: Data Structure, Algorithms, OOPs, Operating Systems, DBMS
+Operating Systems: Linux
+Databases: MySQL
+Tools: VS Code, Git, GitHub
+Soft Skills: Communication, Logical Reasoning, Public Speaking, Teamwork
+
+Certifications and Acheivements
+Student Achievers Award June 2019
+Mount Ford Assn High School Belur, Karnataka
+
+• Recognized for academic excellence, leadership, and community service.
+• Received the award from the school principal in front of the entire student body and parents during annual day
+celebration with a medal,cerificate and trophy.
+
+Certifications Remote
+Recognized for my extensive knowledge and expertise.
+
+• Postman API Fundamentals Student Expert Badge by Postman.[link]
+• Fundamentals of Digital Marketing by Google.[link]
+• Philanthropy activity of IEEE India Philanthropy by IEEE.[link]
+• Data Visualisation by TATA.
+• Python Essentials by Simplilearn | SkillUp.
+• Full Stack Web Development by e-Swara Technologies.
+
+Projects
+Image Cartoonizer Web App | Flask, OpenCV, Python [Link]
+
+• Developed a web app using Flask, OpenCV, and Python that transforms images into cartoon-like visuals with real-time
+processing and user-friendly interface.
+
+• Implemented advanced image processing techniques for seamless cartoonization, with features like easy image upload and
+direct download of results.
+
+Excess Food Web App | HTML,CSS,PHP,JS,MySQL [Link]
+• Purpose: A platform designed to reduce food waste by connecting individuals and organizations with surplus food to
+those in need.
+
+• Features: Enables users to list, locate, and claim excess food items in real-time, with options for donations, pickups, and
+deliveries.
+
+CSE Department Website | HTML, CSS, JS [Link]
+• Responsive Web Design: Developed a fully responsive CSE department website using HTML, CSS, and JavaScript,
+ensuring compatibility across various devices and screen sizes.
+
+• Dynamic Content Integration: Implemented dynamic content features, including event updates and faculty profiles,
+utilizing JavaScript to enhance user interaction and engagement.
+
+• Optimized Performance: Applied best practices in CSS and JavaScript to optimize page load times, improve accessibility,
+and ensure a seamless user experience across different web browsers.
+
+Position of Responsibility
+IEEE Philanthory Activity
+IEEE Member
+
+• Worked in IEEE Team as Member philanthropy activity of IEEE India Philanthropy to upskill government
+schoolteachers and build the capacity of students in rural schools of Chikmagalur district.
+
+• He has spent 70 hours during Dec till March 2024 including orientation and field work at the allocated one school to
+improve the quality of education.

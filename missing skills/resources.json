@@ -1,0 +1,47 @@
+{
+    "Python": {
+        "pdf": "https://example.com/python-guide.pdf",
+        "youtube": "https://youtube.com/python-tutorial",
+        "document": "https://example.com/python-docs"
+    },
+    "JavaScript": {
+        "pdf": "https://example.com/javascript-guide.pdf",
+        "youtube": "https://youtube.com/javascript-tutorial",
+        "document": "https://example.com/javascript-docs"
+    },
+    "Machine Learning": {
+        "pdf": "https://example.com/ml-guide.pdf",
+        "youtube": "https://youtube.com/ml-tutorial",
+        "document": "https://example.com/ml-docs"
+    },
+    "HTML": {
+        "pdf": "https://example.com/html-guide.pdf",
+        "youtube": "https://youtube.com/html-tutorial",
+        "document": "https://example.com/html-docs"
+    },
+    "CSS": {
+        "pdf": "https://example.com/css-guide.pdf",
+        "youtube": "https://youtube.com/css-tutorial",
+        "document": "https://example.com/css-docs"
+    },
+    "React": {
+        "pdf": "https://example.com/react-guide.pdf",
+        "youtube": "https://youtube.com/react-tutorial",
+        "document": "https://example.com/react-docs"
+    },
+    "Django": {
+        "pdf": "https://example.com/django-guide.pdf",
+        "youtube": "https://youtube.com/django-tutorial",
+        "document": "https://example.com/django-docs"
+    },
+    "SQL": {
+        "pdf": "https://example.com/sql-guide.pdf",
+        "youtube": "https://youtube.com/sql-tutorial",
+        "document": "https://example.com/sql-docs"
+    },
+    "SEO": {
+        "pdf": "https://example.com/seo-guide.pdf",
+        "youtube": "https://youtube.com/seo-tutorial",
+        "document": "https://example.com/seo-docs"
+    }
+}

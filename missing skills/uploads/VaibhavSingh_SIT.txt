@@ -1,0 +1,73 @@
+﻿Vaibhav Singh
+ +91 7906478577 # Gmail § Github ï Linkedin  Leetcode  CodeChef
+
+Education
+Siddaganga Institute of Technology Karnataka, India
+Bachelor of Engineering - Computer Science and Engineering; CGPA: 9.08 Dec 2021 - June 2025
+
+Dayawati Modi Academy Meerut, UP, India
+Class 10: 94%, Class 12: 95% Class 10: 2018, Class 12: 2020
+
+Skills
+
+Languages: C++
+CS Fundamentals: Data Structure, Algorithms, OOPs, Operating Systems, DBMS
+Databases: SQL, MongoDB
+Web Development: NodeJS, HTML, CSS
+FrameWorks: ReactJS, ExpressJS
+Tools: VS Code, Git, GitHub
+Soft Skills: Communication, Logical Reasoning, Public Speaking, Teamwork
+
+Achievements
+
+• Knight(1900+) on Leetcode, among the top 4% of global users with 900+ problems solved.
+• Solved 1500+ Data Structure and Algorithm problems across various coding platforms.
+• 3 star coder(1700+) on Codechef, Pupil(1270) on Codeforces and Brown on Atcoder
+• Secured AIR 230 in Leetcode weekly 380 contest among 21k+ participants.
+• Secured Global rank 224 in Codechef Starters 106 Div3 among 25k+ participants.
+• Won First prize at C-Nario event in IdEEEas 2k24, national level technical symposium organized by IEEE SIT.[Link]
+• Given over 100 contests on various competitive programming platforms.
+• Certificates in CPP,DSA and Competitive programming by Coding Ninjas and GeeksForGeeks. [Link][Link][Link]
+• Highest SGPA(9.9) 2nd semester in Institute. [Link]
+
+Projects
+
+ChatApp §
+
+• Implemented a robust MERN stack combined with Socket.io and TailwindCSS for a feature-rich chat application,
+ensuring a smooth user experience with real-time messaging capabilities.
+
+• Integrated authentication and authorization using JWT for secure access control, enabling users to
+authenticate and authorize their interactions within the application seamlessly.
+
+• Leveraged Socket.io to enable bidirectional communication between the server and clients, facilitating real-time
+updates and ensuring users receive instantaneous messages and notifications.
+
+• Tech Stack: ReactJs, NodeJs, ExpressJS, MongoDB, Socket.io, Daisy UI, Tailwind CSS.
+
+NoteHub §
+
+• Developed a Note-taking Application using Node.js, Express, MongoDB, and Passport OAuth for streamlined user
+authentication and authorization.
+
+• Implemented CRUD operations on notes to enable users to create, read, update, and delete notes seamlessly,
+enhancing user productivity and organization.
+
+• Tech Stack: NodeJs, ExpressJs, MongoDB, PassportJs, OAuth, Bootstrap.
+.
+
+LetsTravel §
+
+• A Travel Advisor application with interactive UI where users can view hotels, restaurants, and key places in any part
+of the world and filter out the best places according to ratings.
+
+• Google Map API and Google Places API to fetch the data according to the searched place.
+• Tech Stack: ReactJS, CSS, HTML, APIs, Material UI.
+
+Position of Responsibility
+
+Team SARK
+Technical Member
+
+• Worked in a team to conduct various coding challenges and events at the Institute. [Link]
+• Provided mentorship and guidance to juniors in the college.

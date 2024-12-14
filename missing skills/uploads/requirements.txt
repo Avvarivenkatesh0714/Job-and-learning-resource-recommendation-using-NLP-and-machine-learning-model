@@ -1,0 +1,7 @@
+pandas
+nltk
+sklearn
+tensorflow
+numpy
+beautifulsoup4
+requests
